@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a Systems Analysis and Development student at PUC Minas. Currently, I am focused on Web Development while expanding my knowledge in Automation and Artificial Intelligence (A.I). I enjoy building functional applications and exploring how AI can make technology smarter and more efficient.</p>
+<p align="left">I am a student of Systems Analysis and Development at PUC Minas. Currently, I am focused on Backend Development with C# and .NET, while deepening my knowledge in Automation and Artificial Intelligence (AI). I enjoy creating functional applications and exploring how AI can make technology smarter and more efficient.</p>
 
 ###
 
