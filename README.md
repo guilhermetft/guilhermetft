@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am a student of Systems Analysis and Development at PUC Minas. Currently, I am focused on Backend Development with C# and .NET, while deepening my knowledge in Automation and Artificial Intelligence (AI). I enjoy creating functional applications and exploring how AI can make technology smarter and more efficient.</p>
+<p align="left">I am a student of Systems Analysis and Development at PUC Minas and I work with backend development in Python, C#, .NET and PostgreSQL, being responsible for the creation, maintenance and integration of APIs in systems, as well as performing data analysis to support decisions and optimize processes, always focusing on efficient and integrated solutions.</p>
 
 ###
 
