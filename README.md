@@ -9,9 +9,9 @@
 
 ## 👋 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas e estagiário de desenvolvimento na Deebs.ai. Meu foco hoje é desenvolvimento web, e venho me aprofundando em automação e inteligência artificial, principalmente agentes de IA e fluxos de trabalho com LLMs.
+Sou desenvolvedor com foco em Inteligência Artificial. Estudo Análise e Desenvolvimento de Sistemas na PUC Minas e atuo como estagiário na Deebs.ai, onde desenvolvo agentes de IA capazes de interpretar solicitações, usar ferramentas e executar tarefas de forma autônoma.
 
-Gosto de construir aplicações funcionais e de explorar como a IA pode deixar a tecnologia mais inteligente e eficiente.
+Trabalho principalmente com Python, C# e .NET, construindo APIs e integrações com serviços externos (Google Ads, Meta e outros) e aplicando LLMs, RAG e MCP. No dia a dia, uso Claude Code e Codex para acelerar o desenvolvimento, a manutenção e a evolução das aplicações.
 
 ## 🛠️ Linguagens e ferramentas
 
@@ -36,7 +36,7 @@ Gosto de construir aplicações funcionais e de explorar como a IA pode deixar a
 
 ## 📫 Vamos conversar?
 
-Estou aberto a conversar sobre desenvolvimento web, automação, IA e oportunidades. Escolha o canal que preferir:
+Estou aberto a conversar sobre agentes de IA, automação, LLMs e oportunidades. Escolha o canal que preferir:
 
 <p align="left">
 <a href="https://wa.me/5531990855291" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chamar%20agora-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
